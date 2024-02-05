@@ -23,9 +23,6 @@ git clone https://github.com/danb127/balanced-parentheses-checker.git
 2. [Add setup instructions specific to your project here.]
 3. To run the checker:
 [Your command to run the project]
-
-php
-Copy code
 Follow the prompts in the console to test your strings.
 
 ### 📜 Background
