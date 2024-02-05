@@ -20,10 +20,42 @@ This project is a deep dive into data structures and algorithms, developed as pa
 ### 🔍 Getting Started
 1. Clone the repository:
 git clone https://github.com/danb127/balanced-parentheses-checker.git
-2. [Add setup instructions specific to your project here.]
-3. To run the checker:
-[Your command to run the project]
-Follow the prompts in the console to test your strings.
+
+ruby
+Copy code
+2. Setup Instructions:
+- **For Python:**
+  - Ensure Python is installed on your machine.
+  - Navigate to the project directory and install dependencies (if any):
+    ```
+    pip install -r requirements.txt
+    ```
+  - Run the project:
+    ```
+    python main.py
+    ```
+- **For Java:**
+  - Make sure Java JDK is installed and set up on your machine.
+  - Compile the Java files from the project directory:
+    ```
+    javac ClassName.java
+    ```
+  - Run the compiled class file:
+    ```
+    java ClassName
+    ```
+- **For C++:**
+  - Verify C++ compiler (g++, clang++, etc.) is installed on your system.
+  - Compile the C++ source file:
+    ```
+    g++ -o parenthesesChecker main.cpp
+    ```
+  - Execute the compiled program:
+    ```
+    ./parenthesesChecker
+    ```
+
+Replace `ClassName` with the actua
 
 ### 📜 Background
 The Balanced Parentheses Checker was inspired by a challenge faced in computer science: ensuring that a series of parentheses are properly closed and nested. This project was an opportunity to tackle that challenge head-on, applying practical data structure concepts.
