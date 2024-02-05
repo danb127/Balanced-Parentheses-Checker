@@ -20,9 +20,6 @@ This project is a deep dive into data structures and algorithms, developed as pa
 ### 🔍 Getting Started
 1. Clone the repository:
 git clone https://github.com/danb127/balanced-parentheses-checker.git
-
-arduino
-Copy code
 2. [Add setup instructions specific to your project here.]
 3. To run the checker:
 [Your command to run the project]
