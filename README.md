@@ -28,8 +28,8 @@ Feel free to fork, suggest edits, or contribute directly by submitting a pull re
 📬 Say Hello
 Got questions or suggestions? Reach out:
 
-Email: me@example.com
-LinkedIn: Connect with me
+Email: danielbakerr127@gmail.com
+LinkedIn: linkedin.com/danb127/
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" alt="Coding Fun" />
 </p>
